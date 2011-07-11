@@ -15,7 +15,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1000</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -45,7 +45,9 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.github.com/itafroma/google-plus-minus-flair/master/Manifest.plist</string>
 	<key>Website</key>
-	<string>http://marktrapp.com</string>
+	<string>https://github.com/itafroma/google-plus-minus-flair</string>
 </dict>
 </plist>
